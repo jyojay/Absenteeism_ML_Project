@@ -31,7 +31,7 @@ Here's how we'll define absenteeism:
 "Based on what information should we predict whether an employee's expected to be absent or not?
 How would we measure absenteeism? Should we rather think about trying to predict excessive absenteeism?"
 We will answer these and other questions, as we proceed with our analysis. The purpose of the business exercise will be to explore whether a person presenting certain characteristics is expected to be away from work at some point in time or not? In other words, we want to know for how many working hours an employee could be away from work, based on information such as how far they live from their workplace? How many children and pets they have? etc.
-
+### Steps conducted:
 
 ### Step 1: Preprocessing the Data
   
